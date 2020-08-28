@@ -5,25 +5,25 @@ body {
     background-attachment:fixed;
 }
 h1 {
-    color:blue;
+    color:#0000FF;
     text-align:center
 }
 h3 {
-    color:blue;
+    color:#0000FF;
 }
 a:link {
-    color:#7FB5FF;
+    color:#0033FF;
     text-decoration:none;
 }
 a:visited {
-    color:#7FB5FF;
+    color:#0033FF;
     text-decoration:none;
 }
 a:hover {
-    color:#7FB5FF;
+    color:#0033FF;
     text-decoration:underline;
 }
 a:active {
-    color:blue;
+    color:#0000FF;
     text-decoration:underline;
 }
