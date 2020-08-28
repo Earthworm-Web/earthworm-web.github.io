@@ -11,6 +11,18 @@ h1 {
 h3 {
     color:#0000FF;
 }
+p.tip {
+    color:#FF0000;
+}
+p.en-us {
+    color:#003366;
+}
+p.zh-cn {
+    color:#CC0000;
+}
+sup.tip {
+    color:#FF0000;
+}
 a:link {
     color:#0000FF;
     text-decoration:none;
