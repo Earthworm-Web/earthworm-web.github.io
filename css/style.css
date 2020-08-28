@@ -4,6 +4,7 @@ body {
     background-size:100% 100%;
     background-attachment:fixed;
 }
+
 h1 {
     color:#0000FF;
     text-align:center
@@ -11,18 +12,21 @@ h1 {
 h3 {
     color:#0000FF;
 }
+
 p.tip {
     color:#FF0000;
 }
 p.enus {
-    color:#003366;
+    color:#CC0000;color:#CC0000;
 }
 p.zhcn {
     color:#CC0000;
 }
+
 sup.tip {
     color:#FF0000;
 }
+
 a:link {
     color:#0000FF;
     text-decoration:none;
@@ -39,4 +43,10 @@ a:active {
     color:#FFFFFF;
     text-decoration:underline;
     background-color:#0000FF;
+}
+a.enus {
+    color:#CC0000;
+}
+a.zhcn {
+    color:#CC0000;
 }
