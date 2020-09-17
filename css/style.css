@@ -9,6 +9,10 @@ h1 {
     color:#0000FF;
     text-align:center
 }
+h1.watch {
+    color:#F8A844;
+    text-align:center
+}
 h3 {
     color:#0000FF;
 }
@@ -79,4 +83,25 @@ a.zhcn:active {
     color:#FFFFFF;
     text-decoration:underline;
     background-color:#CC0000;
+}
+
+a.watch {
+    text-align:center
+}
+a.watch:link {
+    color:#F8A844;
+    text-decoration:none;
+}
+a.watch:visited {
+    color:#F8A844;
+    text-decoration:none;
+}
+a.watch:hover {
+    color:#F8A844;
+    text-decoration:underline;
+}
+a.watch:active {
+    color:#FFFFFF;
+    text-decoration:underline;
+    background-color:#F8A844;
 }
