@@ -7,11 +7,11 @@ body {
 
 h1 {
     color:#0000FF;
-    text-align:center
+    text-align:center;
 }
 h1.watch {
     color:#F8A844;
-    text-align:center
+    text-align:center;
 }
 h3 {
     color:#0000FF;
@@ -25,6 +25,9 @@ p.enus {
 }
 p.zhcn {
     color:#CC0000;
+}
+p.watch {
+    text-align:center;
 }
 
 sup.tip {
