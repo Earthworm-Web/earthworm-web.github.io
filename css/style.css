@@ -89,25 +89,28 @@ a.zhcn:active {
 }
 
 a.watch:link {
-    color:#F8A844;
+    color:#FF9933;
     text-decoration:none;
 }
 a.watch:visited {
-    color:#F8A844;
+    color:#FF9933;
     text-decoration:none;
 }
 a.watch:hover {
-    color:#F8A844;
+    color:#FF9933;
     text-decoration:underline;
 }
 a.watch:active {
     color:#FFFFFF;
     text-decoration:underline;
-    background-color:#F8A844;
+    background-color:#FF9933;
 }
 
 marquee {
     background-color:#0000FF;
+}
+marquee.watch{
+    background-color:#FF9933;
 }
 span {
     color:#FFFFFF;
