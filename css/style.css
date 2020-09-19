@@ -105,3 +105,10 @@ a.watch:active {
     text-decoration:underline;
     background-color:#F8A844;
 }
+
+marquee {
+    background-color:#0000FF;
+}
+span {
+    color:#FFFFFF;
+}
