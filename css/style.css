@@ -9,6 +9,7 @@ ul.head {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    position: fixed;
     overflow: hidden;
     background-color: #0000FF;
 }
@@ -23,8 +24,10 @@ ul.head li a {
     text-decoration: none;
 }
 ul.head li a:hover {
-    background-color: #0066FF;
+    background-color: #0066ff;
 }
+
+background-color:
 
 h1 {
     color:#0000FF;
@@ -72,6 +75,7 @@ a:active {
     text-decoration:underline;
     background-color:#0000FF;
 }
+a.now
 
 a.enus:link {
     color:#003366;
