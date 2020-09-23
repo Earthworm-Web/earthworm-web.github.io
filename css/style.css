@@ -28,6 +28,10 @@ ul.head li a {
 ul.head li a:hover {
     background-color: #0066ff;
 }
+ul.head img {
+    loat: left;
+    width: 10%;
+}
 
 h1 {
     color:#0000FF;
