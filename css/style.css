@@ -12,6 +12,10 @@ ul.head {
     overflow: hidden;
     background-color: #0000FF;
 }
+ul.head img {
+    float: left;
+    width: 7.5%;
+}
 ul.head li {
     float: left;
     width: 33.333%;
@@ -27,10 +31,6 @@ ul.head li a {
 }
 ul.head li a:hover {
     background-color: #0066ff;
-}
-ul.head img {
-    loat: left;
-    width: 10%;
 }
 
 h1 {
