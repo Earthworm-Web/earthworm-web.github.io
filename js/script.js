@@ -1,1 +1,0 @@
-document.getElementById("news").innerHTML="<marquee><span>News: Not yet!</span></marquee>";
