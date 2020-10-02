@@ -25,6 +25,11 @@ ul.head li a:hover {
     background-color: #0066ff;
 }
 ul.head marquee {
-    float: left;
     width: 50%;
+    float: left;
+    background-color:#0000FF;
+}
+ul.head marquee p {
+    margin:9px;
+    color:#FFFFFF;
 }
