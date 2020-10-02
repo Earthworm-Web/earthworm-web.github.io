@@ -26,4 +26,5 @@ ul.head li a:hover {
 }
 ul.head marquee {
     float: left;
+    width: 50%;
 }
