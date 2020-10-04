@@ -1,5 +1,4 @@
 h1 {
-    margin-left:10%;
     color:#0000FF;
     text-align:center;
 }
@@ -24,8 +23,16 @@ p.watch {
     text-align:center;
 }
 
+dd {
+    margin-left:10%;
+}
+
 sup.tip {
     color:#FF0000;
+}
+
+li {
+    margin-left:10%;
 }
 
 a:link {
