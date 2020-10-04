@@ -24,6 +24,9 @@ ul.head li a {
 ul.head li a:hover {
     background-color: #0066ff;
 }
+ul.head li a.click {
+    background-color: #0066ff;
+}
 ul.head marquee {
     width: 80%;
     float: right;
