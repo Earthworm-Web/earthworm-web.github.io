@@ -1,15 +1,16 @@
 h1 {
+    margin-left:10%;
     color:#0000FF;
-    text-align:center;
-}
-h1.watch {
-    color:#F8A844;
     text-align:center;
 }
 h2 {
+    margin-left:10%;
     color:#0000FF;
 }
 
+p {
+    margin-left:10%;
+}
 p.tip {
     color:#FF0000;
 }
