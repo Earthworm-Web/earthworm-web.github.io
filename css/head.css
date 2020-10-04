@@ -1,24 +1,24 @@
 ul.head {
-    list-style-type: none;
-    margin: 0px auto;
     padding: 0;
+    margin: 0px;
     overflow: hidden;
+    list-style-type: none;
     background-color: #0000FF;
 }
 ul.head img {
     float: left;
 }
 ul.head li {
-    float: left;
     width: 10%;
+    float: left;
 }
 ul.head li a {
-    display: block;
-    color: white;
-    text-align: center;
     width:100%;
     height: 40px;
+    color: white;
+    display: block;
     line-height: 40px;
+    text-align: center;
     text-decoration: none;
 }
 ul.head li a:hover {
