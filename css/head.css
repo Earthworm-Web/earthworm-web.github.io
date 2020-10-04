@@ -26,7 +26,7 @@ ul.head li a:hover {
 }
 ul.head marquee {
     width: 80%;
-    float: left;
+    float: right;
     background-color:#0000FF;
 }
 ul.head marquee p {
