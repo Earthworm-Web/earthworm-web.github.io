@@ -7,8 +7,14 @@ h2 {
     color:#0000FF;
 }
 
+p {
+    margin-left:10%;
+}
 p.tip {
     color:#FF0000;
+}
+p.date {
+    text-align:center;
 }
 p.enus {
     color:#003366;
@@ -34,6 +40,7 @@ ul.a {
 details.a {
     margin-left:10%;
 }
+
 sup.tip {
     color:#FF0000;
 }
