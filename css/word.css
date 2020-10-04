@@ -14,15 +14,19 @@ p.tip {
     color:#FF0000;
 }
 p.date {
+    margin-left:0%;
     text-align:center;
 }
 p.enus {
+    margin-left:0%;
     color:#003366;
 }
 p.zhcn {
+    margin-left:0%;
     color:#CC0000;
 }
 p.watch {
+    margin-left:0%;
     text-align:center;
 }
 
