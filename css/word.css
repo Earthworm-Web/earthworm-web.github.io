@@ -27,12 +27,19 @@ dd {
     margin-left:10%;
 }
 
-sup.tip {
-    color:#FF0000;
+ol {
+    margin-left:10%;
+}
+ul {
+    margin-left:10%;
 }
 
-li {
+details {
     margin-left:10%;
+}
+
+sup.tip {
+    color:#FF0000;
 }
 
 a:link {
