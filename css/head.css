@@ -36,3 +36,31 @@ ul.head marquee p {
     margin:9px;
     color:#FFFFFF;
 }
+
+ul.head li ul {
+    z-index: 3;
+    position:absolute;
+    width: 100%;
+    top: 40px;
+    margin: 0px;
+    display:none;
+}
+ul.head li:hover ul {
+    display: block;
+}
+ul.head li ul li {
+    float:none;
+    margin: 0px;
+}
+ul.head li ul li a{
+    background:#0000ff;
+    margin: 0px;
+}
+ul.head li ul li a:hover{
+    background:#0066ff;
+    margin: 0px;
+}
+ul.head li ul li a.click{
+    background:#0066ff;
+    margin: 0px;
+}
