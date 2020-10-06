@@ -5,18 +5,18 @@
     list-style-type:none;
     background-color: #0000ff;
 }
-#list ul li, #list ul #dropdown {
+#list ul li, #list ul #dropdown, #list ul #dropdown #dropdown-content li {
     float: left;
     width: 10%;
 }
-#list ul li a, #list ul #dropdown a, #list ul #dropdown a, #list ul #dropdown #dropdown-content a {
+#list ul li a, #list ul #dropdown a, #list ul #dropdown a, #list ul #dropdown #dropdown-content li a {
     display: block;
     color: #ffffff;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
-#list ul li a:hover, #list ul li a.active, #list ul #dropdown:hover, #list ul #dropdown a:hover, #list ul #dropdown a.active, #list ul #dropdown #dropdown-content a:hover, #list ul #dropdown #dropdown-content a.active {
+#list ul li a:hover, #list ul li a.active, #list ul #dropdown:hover, #list ul #dropdown a:hover, #list ul #dropdown a.active, #list ul #dropdown #dropdown-content li a:hover, #list ul #dropdown #dropdown-content li a.active {
     background-color: #0066ff;
 }
 #list ul #dropdown {
