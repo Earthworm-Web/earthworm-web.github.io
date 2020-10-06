@@ -3,32 +3,37 @@ h1 {
     text-align: center;
 }
 h2, h3, h4, h5, h6 {
-    margin-left:10%;
+    margin-left: 10%;
     color: #0000ff;
 }
 
 p, ul.a, ol.a, details.a {
-    margin-left:10%;
+    margin-left: 10%;
 }
 
 dd {
-    margin-left:12%;
+    margin-left: 12%;
 }
 #about dd {
-    margin-top:5px;
-	margin-bottom:5px;
+    margin-top: 10px;
+	margin-bottom: 10px;
 }
 
 a:link, a:visited {
-    color:#0000FF;
-    text-decoration:none;
+    color: #0000FF;
+    text-decoration: none;
 }
 a:hover {
-    color:#0000FF;
-    text-decoration:underline;
+    color: #0000FF;
+    text-decoration: underline;
 }
 a:active {
-    color:#FFFFFF;
-    text-decoration:underline;
-    background-color:#0000FF;
+    color: #FFFFFF;
+    text-decoration: underline;
+    background-color: #0000FF;
+}
+
+hr {
+    margin-left: 10%;
+    margin-right: 10%;
 }
