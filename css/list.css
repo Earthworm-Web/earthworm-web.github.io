@@ -5,7 +5,7 @@
     list-style-type:none;
     background-color: #0000ff;
 }
-#list ul li {
+#list ul li, #list ul #dropdown {
     float: left;
     width: 10%;
 }
