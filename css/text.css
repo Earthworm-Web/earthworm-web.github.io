@@ -11,6 +11,10 @@ p, ul.a, ol.a, details.a {
     margin-left: 10%;
 }
 
+details.b {
+    margin-top: 25px;
+}
+
 dd {
     margin-left: 12%;
 }
