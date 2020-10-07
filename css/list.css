@@ -1,15 +1,16 @@
-#list ul {
-    padding: 0;
+#list {
     width: 100%;
     height: 40px;
-    margin: 0 auto;
     overflow: hidden;
-    list-style-type: none;
     background: #0000ff;
+}
+#list ul{
+    padding: 0;
+    margin: 0 auto;
+    list-style-type: none;
 }
 #list ul li {
     width: 10%;
-    padding: 0;
     float: left;
 }
 #list ul li a{
@@ -25,11 +26,10 @@
     background-color: #0066ff;
 }
 #list ul li ul {
-    top: 40px;
+    top: 125px;
     width: 100%;
     display: none;
     margin: 0 auto;
-    position: absolute;
 }
 #list ul li:hover ul {
     display: block;
@@ -37,8 +37,12 @@
 #list ul li ul li {
     float: none;
     margin: 0 auto;
+    position: absolute;
+  
 }
 #list ul li ul li a {
     margin: 0 auto;
-    background: #0066ff;
+    padding-left:10px;
+    padding-right:10px;
+    background: #0000ff;
 }
