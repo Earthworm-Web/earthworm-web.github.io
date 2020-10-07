@@ -36,6 +36,7 @@
 }
 #list ul li ul li {
     float: none;
+    width:120px;
     margin: 0 auto;
     position: absolute;
   
