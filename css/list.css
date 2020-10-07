@@ -1,7 +1,6 @@
 #list {
     width: 100%;
     height: 40px;
-    overflow: hidden;
     background: #0000ff;
 }
 #list ul{
@@ -12,6 +11,7 @@
 #list ul li {
     width: 10%;
     float: left;
+    position:relative;
 }
 #list ul li a{
     width:100%;
@@ -20,28 +20,28 @@
     display: block;
     color: #ffffff;
     text-align: center;
-    text-decoration: none;
 }
 #list ul li a:hover, #list ul li a.active, #list ul li ul li a:hover, #list ul li ul li a.active{
     background-color: #0066ff;
 }
 #list ul li ul {
-    top: 125px;
+    top:40px;
     width: 100%;
     display: none;
     margin: 0 auto;
+    position:absolute;
+    
 }
 #list ul li:hover ul {
     display: block;
 }
 #list ul li ul li {
+    width: 75%;
     float: none;
-    width:120px;
     margin: 0 auto;
-    position: absolute;
-  
 }
 #list ul li ul li a {
     margin: 0 auto;
     background: #0000ff;
+    margin: 0 auto;
 }
