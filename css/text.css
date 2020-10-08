@@ -24,17 +24,13 @@ dd {
 	margin-bottom: 10px;
 }
 
-a:link, a:visited {
+a:link, a:visited, a:hover {
     color: #0000FF;
     text-decoration: none;
 }
-a:hover {
-    color: #0000FF;
-    text-decoration: underline;
-}
 a:active {
     color: #FFFFFF;
-    text-decoration: underline;
+    text-decoration: none;
     background-color: #0000FF;
 }
 
