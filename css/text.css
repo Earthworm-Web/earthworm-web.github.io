@@ -7,12 +7,13 @@ h2, h3, h4, h5, h6 {
     color: #0000ff;
 }
 
-p, ul.a, ol.a, details.a {
+p, ul.a, ol.a, details.b {
     margin-left: 10%;
 }
 
-details.b {
-    margin-top: 25px;
+details.a {
+    margin-left: 10%;
+    margin-top: 20px;
 }
 
 dd {
