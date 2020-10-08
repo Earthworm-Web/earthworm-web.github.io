@@ -11,6 +11,11 @@ p, ul.a, ol.a, details.b {
     margin-left: 10%;
 }
 
+#center p {
+    margin-left: 0%;
+    text-align: center;
+}
+
 details.a {
     margin-left: 10%;
     margin-top: 20px;
