@@ -4,28 +4,34 @@ h1 {
 }
 h2, h3, h4, h5, h6 {
     margin-left: 10%;
+    margin-right: 10%;
     color: #0000ff;
 }
 
 p, ul.a, ol.a, details.b {
     margin-left: 10%;
+    margin-right: 10%;
 }
 
 #center p {
     margin-left: 0%;
+    margin-right: 0%;
     text-align: center;
 }
 
 details.a {
     margin-left: 10%;
+    margin-right: 10%;
     margin-top: 20px;
 }
 
 dd {
     margin-left: 12%;
+    margin-right: 10%;
 }
 #about dd {
     margin-top: 10px;
+    margin-right: 10%;
 	margin-bottom: 10px;
 }
 
