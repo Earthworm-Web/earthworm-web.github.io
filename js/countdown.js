@@ -1,3 +1,5 @@
+/*Little-Earthworm provides this technology. ©2020 Little-Earthworm*/
+
 document.getElementById("countdown").innerHTML="<div id='center'><p><b>Jumping to the Home. (5s)</b></p><p>正在跳转到主页。（5秒）</div>";
 setTimeout("t4()","1000");
 function t4() {
