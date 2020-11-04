@@ -1,6 +1,6 @@
-<h1>Earthworm-Web</h1>
-<p>This is the backstage management repository for <a href="https://earthworm-web.github.io" target="_blank">Earthworm-Web</a>.</p>
-<h2>People (5)</h2>
+# Earthworm-Web
+This is the backstage management repository for [Earthworm-Web](https://earthworm-web.github.io).
+## People (5)
 <table>
     <tr>
         <td align="center">
