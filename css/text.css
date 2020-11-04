@@ -56,6 +56,12 @@ hr {
 }
 
 table {
-    margin-left: 10%;
-    border: #DFE2E5;
+    border-collapse: collapse;
+}
+table, td, th {
+    border: 1px solid #DFE2E5;
+}
+td {
+    padding: 15px;
+    text-align: center;
 }
