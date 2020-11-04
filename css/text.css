@@ -60,9 +60,9 @@ table {
     border-collapse: collapse;
 }
 table, td, th {
-    border: 2px solid #DFE2E5;
+    border: 1px solid #DFE2E5;
 }
 td {
-    padding: 7px;
+    padding: 6px;
     text-align: center;
 }
