@@ -50,6 +50,19 @@
     background-color: #0000ff;
 }
 #list ul marquee {
+    height: 40px;
+    line-height: 40px;
     color: #ffffff;
-    background-color: #FF0000;
+    display: block;
+}
+#list ul marquee span a:link, #list ul marquee span a:visited {
+    color: #ffffff;
+    text-decoration: none;
+}
+#list ul marquee span a:hover {
+    text-decoration: underline;
+}
+#list ul marquee span a:active {
+    color: #FF0000;
+    text-decoration: underline;
 }
