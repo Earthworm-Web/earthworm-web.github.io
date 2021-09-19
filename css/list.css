@@ -49,3 +49,7 @@
     text-decoration: none;
     background-color: #0000ff;
 }
+#list ul marquee {
+    color: #ffffff;
+    background-color: #FF0000;
+}
